@@ -4,7 +4,7 @@
 A Progressive Web App (PWA) for estimating underground electrical service installations with materials, labor, and voltage drop calculations.
 
 **Version:** 7.8 GPS/PWA  
-**Live App:** https://YOUR_USERNAME.github.io/ug-estimator/
+**Live App:** https://garageknights.github.io/Estimator-Tool/
 
 ## Features
 
